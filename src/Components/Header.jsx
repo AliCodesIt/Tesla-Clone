@@ -42,6 +42,7 @@ function Header() {
         <li><a href="#">Find Us</a></li>
         <li><a href="#">Support</a></li>
         <li><a href="#">Investor Relations</a></li>   
+        <li><a href="#">Pre-Order</a></li>   
       </BurgerNav>
     </Container>
   )
